@@ -1,17 +1,8 @@
-<!--
-# Forum Guidelines
--->
 
 # フォーラムガイドライン
 
-<!--
-Welcome to the WordPress.org support forums! 😃
--->
 WordPress.org サポートフォーラムへようこそ ! 😃
 
-<!--
-The forums is a volunteer-powered resource, available to all users of WordPress to help improve the quality of WordPress Core, plugins and themes and to help solve problems with WordPress.
--->
 このフォーラムはボランティアによるリソースであり、WordPress のすべてのユーザーが利用でき、WordPress のコア、プラグイン、テーマの品質を向上させ、WordPress に関する問題を解決するのに役立ちます。
 
 
