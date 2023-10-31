@@ -6,13 +6,13 @@ WordPress.org サポートフォーラムへようこそ ! 😃
 このフォーラムはボランティアによるリソースであり、WordPress のすべてのユーザーが利用でき、WordPress のコア、プラグイン、テーマの品質を向上させ、WordPress に関する問題を解決するのに役立ちます。
 
 
-## User Expectations
+## ユーザーへの期待
 
-As a volunteer-powered forum, users are expected to be kind, helpful and respectful to all, assuming the best intentions of people and trying to help make things better. Please also be aware that these are community forums, this means that all users are required to follow the Community Code of Conduct.
+ボランティアで運営されているフォーラムであるため、利用者はすべての人に親切で、役に立ち、敬意を払い、人々の善意を想定し、物事をより良くする手助けをすることが期待されています。また、当フォーラムはコミュニティフォーラムであり、すべての利用者はコミュニティ行動規範に従う必要があることをご承知ください。
 
-Be aware that there is no obligation for support to be provided, including by the developers of themes and plugins hosted on WordPress.org.
+WordPress.org でホストされているテーマやプラグインの開発者を含め、サポートを提供する義務はないことに注意してください。
 
-Be mindful to follow any and all reasonable instructions given by a forum moderator at all times, they are long time contributors with experience to know when action needs to be taken, or warnings need to be issued.
+フォーラムのモデレーターは長年の貢献者であり、どのような行動を取るべきか、どのような警告を発するべきか、経験を積んでいます。
 
 
 ## Contacting the Moderators
