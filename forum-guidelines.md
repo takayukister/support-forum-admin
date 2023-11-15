@@ -15,12 +15,10 @@ WordPress.org でホストされているテーマやプラグインの開発者
 フォーラムのモデレーターは長年の貢献者であり、どのような行動を取るべきか、どのような警告を発するべきか、経験を積んでいます。
 
 
-## Contacting the Moderators
+## モデレータへの連絡
 
-If a post needs moderator attention, there is a ‘Report this topic’ link on every thread. That will add the post to a queue moderators watch and follow up with many times a day.
-
-If immediate action is needed, or the situation is not limited to a specific post, users should come to Slack and post in the #forums channel. (please consult the FAQ before contacting the moderators)
-
+投稿にモデレーターの助けが必要な場合は、すべてのスレッドに「このトピックを報告」リンクがあります。 これにより、モデレーターが監視するキューに投稿が追加され、1 日に何度もフォローアップされます。
+早急な対応が必要な場合、または状況が特定の投稿に限定されない場合は、ユーザーは WordSlack にアクセスして #forums チャネルに投稿する必要があります。 (モデレータに連絡する前に FAQ を参照してください)
 
 ## Guidelines
 
