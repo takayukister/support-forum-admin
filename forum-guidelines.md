@@ -21,7 +21,8 @@ WordPress.org でホストされているテーマやプラグインの開発者
 
 早急な対応が必要な場合、または状況が特定の投稿に限定されない場合は、ユーザーは Slack にアクセスして #forums チャネルに投稿する必要があります。 (モデレータに連絡する前に FAQ を参照してください)
 
-## Guidelines
+
+## ガイドライン
 
 
 ### Do not advertise on the support forums
