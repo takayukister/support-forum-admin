@@ -21,13 +21,13 @@ WordPress.org でホストされているテーマやプラグインの開発者
 
 早急な対応が必要な場合、または状況が特定の投稿に限定されない場合は、ユーザーは Slack にアクセスして #forums チャネルに投稿する必要があります。 (モデレータに連絡する前に FAQ を参照してください)
 
-## Guidelines
+## ガイドライン
 
 
-### Do not advertise on the support forums
+### サポートフォーラムで宣伝しないでください
 
-The forums are not a venue to promote your own (or others’) plugins, themes, websites or services. You are also not allowed to request payment to fix someone’s site, please use jobs.wordpress.net for this.
-
+サポートフォーラムで宣伝しないでください。
+フォーラムは、あなた自身 (または他人) のプラグイン、テーマ、Web サイト、サービスを宣伝する場ではありません。 また、誰かのサイトを修正するために支払いを要求することもできません。これには jobs.wordpress.net を使用してください。
 
 ### Do not offer to pay for help
 
