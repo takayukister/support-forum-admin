@@ -45,13 +45,13 @@ In order to be good stewards of the WordPress community, and encourage innovatio
 Reviews of plugins and themes are to be limited to the functionality of the plugin or theme hosted on WordPress.org and the support provided by the authors for the versions of the plugins/themes hosted on WordPress.org. The exception to this is Software as a Service (SaaS) solutions, or equivalent, where the functionality and behavior is not directly handled within a plugin or theme.
 
 
-### 複数アカウント保持の禁止
+### Do not create multiple accounts
 
-個人の利用者が保持できる個人アカウントは1人につき1個に限られます。
+Individuals are limited to a single personal account.
 
-企業がブランド名を用いたアカウントを登録することも認められますが、登録の際その企業のものと認証可能なメールアドレスが必要になります。
+A company may register a brand account with a verifiable company email.
 
-個人が複数のアカウントを作成することは認められず、違反行為は罰則の対象となります。
+We do not allow individual users to make multiple accounts, and consider this a bannable offense.
 
 
 ### Be mindful when creating links to external resources
