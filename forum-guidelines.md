@@ -54,15 +54,15 @@ Reviews of commercial plugins/themes are acceptable on WordPress.org when such r
 個人が複数のアカウントを作成することは認められず、違反行為は罰則の対象となります。
 
 
-### Be mindful when creating links to external resources
+### 外部リソースにリンクする場合に注意すべきこと
 
-Public links in plugin or theme support topics may only be posted if they meet one or more of the following criteria:
+プラグインやテーマのサポートトピックにおける公開リンクの投稿は以下の基準のいずれかに該当する場合に限り許容されます:
 
-* The link is to the plugin or theme authors own website.
-* The link is to the plugin or theme authors own support website.
-* The link is posted by the plugin or theme author themselves (or registered support users) to an external resource related to the topic.
-* The link is to resources on the WordPress.org website.
-* The link is to a reputable image-sharing service for screenshots.
+* リンク先はそのプラグインまたはテーマの作者が所有するウェブサイトである。
+* リンク先はそのプラグインまたはテーマの作者が所有するサポート用ウェブサイトである。
+* リンクを投稿するのがそのプラグインまたはテーマの作者自身 (または登録されたサポートユーザー) であり、リンク先の外部リソースはトピックに関係のあるものである。
+* リンク先は WordPress.org ウェブサイト上のリソースである。
+* リンク先は信頼できるスクリーンショット用画像共有サービスのものである。
 
 
 ### We reserve the right to manage the forums to the best of our ability
