@@ -42,7 +42,7 @@ For support of commercial themes or plugins, go to their official support channe
 
 In order to be good stewards of the WordPress community, and encourage innovation and progress, we feel it’s important to direct people to those official locations. Doing this will provide the developer with the income they need to make WordPress awesome.
 
-Reviews of plugins and themes are to be limited to the functionality of the plugin or theme hosted on WordPress.org and the support provided by the authors for the versions of the plugins/themes hosted on WordPress.org. The exception to this is Software as a Service (SaaS) solutions, or equivalent, where the functionality and behavior is not directly handled within a plugin or theme.
+Reviews of commercial plugins/themes are acceptable on WordPress.org when such reviews discuss functionality (including Software as a Services [Saas] solutions) or user-facing features. Reviews that are essentially payment disputes or are used to leverage support will be archived, with a reply that such disputes should be handled via private email.
 
 
 ### 複数アカウント保持の禁止
