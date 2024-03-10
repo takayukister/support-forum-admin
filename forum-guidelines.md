@@ -65,25 +65,25 @@ Reviews of commercial plugins/themes are acceptable on WordPress.org when such r
 * リンク先は信頼できるスクリーンショット用画像共有サービスのものである。
 
 
-### We reserve the right to manage the forums to the best of our ability
+### モデレーター権限が行使される事由について
 
-We do our best to keep the forums friendly and safe for all users and developers. In order to do so, topic content may be moderated and users may have their access restricted, should the moderation team feel it is appropriate.
+フォーラムがすべてのユーザーと開発者にとって友好的で安全な場所であり続けられるようモデレーターは最大限の努力を払います。そのために必要とモデレーターが判断したときはトピック内容の修正や該当ユーザーのアクセス制限等の措置が取られます。
 
-We aim to use this power lightly and as sparingly as possible, however in severe cases, users may be suspended and posts removed entirely.
+これらのモデレーター権限は可能な限り控えめに行使されるべきですが、悪質なケースにおいてはユーザーアカウントの停止や投稿の完全な削除等の厳しい処分もあり得ます。
 
-Common reasons for edits or suspensions include but are not limited to:
+投稿内容の修正やアカウント停止処分の事由としてよくあるものを以下に挙げます:
 
-* Violations of the WordPress Community Code of Conduct.
-* Posting personal information of other people (including but not limited to email, name, job, gender, living situation, location, etc).
-* Posting private communication in the public forums or Slack. This includes direct messages, emails, support tickets, or other off-WordPress.org communication.
-* Posting offers or requests for login information to a site. While plugin and theme authors may ask for this on their own support systems, they may not do so on WordPress.org for liability reasons.
-* Harassment, threats, or abuse via any of WordPress.org’s systems or events (such as meetups or WordCamps). This includes actions such as following people to social media to continue a disagreement or complaint.
-* Posting broad questions about opinions, such as “who is the best web host?” or other similar discussion topics that are not directly related to WordPress, its themes, or plugins.
-* Posting only to solicit feedback for a site, theme, or plugin.
-* Posting in ALL CAPS or abusing formatting (such as bolding the entire topic).
-* Seeking legal advice or threatening legal action, including lawsuits.
+* WordPress コミュニティ行動規範への違反行為。
+* 他人の個人情報 (メールアドレス、名前、職業、性別、私生活に関する事柄、住所、等々) を含む投稿。
+* WordPress.org サポートフォーラム以外の手段を利用してプライベートにメッセージを送る行為。
+* サイトのログイン情報の提供を申し出たり求めたりする行為。プラグインやテーマの作者が独自に運営するサポートシステムの中でこれを行うことは構いませんが、WordPress.org では責任問題につながる恐れがあるため認められません。
+* WordPress.org のいずれかのシステム上での、またはミートアップや WordCamp 等のコミュニティイベントにおける嫌がらせや脅迫などの不正行為。対象者のソーシャルメディアアカウントを追跡して論争や批判を行うなどの行為もこれに含まれます。
+* WordPress やそのテーマ、プラグインと直接関係のない話題 (例えば「一番良いホスティングサービスはどこですか」) について広く意見を募ったり議論をする目的で投稿する行為。
+* 単にサイトやテーマ、プラグインについてフィードバックを求めるための投稿。
+* 全文大文字表記や全文強調表示など、フォーマットの悪用。
+* 法的な助言を求めたり、訴訟を含む法的対応を示唆するなどの行為。
 
-Please note that neither the list of examples above, or bannable offenses are exhaustive. Each and every post and interaction is judged on its own merits.
+上に挙げた例や罰則対象行為の一覧はすべての可能性を網羅するものではないということに留意してください。個々の投稿や発言についての判断は都度それぞれの実体的評価に基づいて行われます。
 
 
 ### In closing
