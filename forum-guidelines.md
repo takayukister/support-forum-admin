@@ -86,8 +86,8 @@ Reviews of commercial plugins/themes are acceptable on WordPress.org when such r
 上に挙げた例や罰則対象行為の一覧はすべての可能性を網羅するものではないということに留意してください。個々の投稿や発言についての判断は都度それぞれの実体的評価に基づいて行われます。
 
 
-### In closing
+### 終わりに
 
-And that’s all. Enjoy your stay at the forums!
+これで全部です。どうぞフォーラムをお楽しみください !
 
-Oh.. And, when you’re done, please mark your topic as “Resolved”. Thanks!
+ああ、それから、問題が片付いたらトピックのステータスを「解決済」にしておいてくださいね。
