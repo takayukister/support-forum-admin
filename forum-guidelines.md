@@ -35,15 +35,15 @@ WordPress.org でホストされているテーマやプラグインの開発者
 フォーラムでのサービスや支援の見返りに支払いを申し出ないでください。これには jobs.wordpress.net を使用してください。
 
 
-### Do not post about commercial products
+### 商用製品について投稿しないでください
 
-Commercial plugins and themes are not sold on WordPress.org, therefore please use their respective websites for support and reviews.
+商用プラグインとテーマは WordPress.org では販売されていないため、サポートやレビューについてはそれぞれのサイトをご利用ください。
 
-For support of commercial themes or plugins, go to their official support channel.
+商用テーマまたはプラグインのサポートについては、公式サポートチャネルにアクセスしてください。
 
-In order to be good stewards of the WordPress community, and encourage innovation and progress, we feel it’s important to direct people to those official locations. Doing this will provide the developer with the income they need to make WordPress awesome.
+WordPress コミュニティの良き管理人となり、革新と進歩を促進するには、人々をこれらの公式の場所に誘導することが重要であると私たちは感じています。これにより、開発者は WordPress を素晴らしいものにするために必要な収入を得ることができます。
 
-Reviews of commercial plugins/themes are acceptable on WordPress.org when such reviews discuss functionality (including Software as a Services [Saas] solutions) or user-facing features. Reviews that are essentially payment disputes or are used to leverage support will be archived, with a reply that such disputes should be handled via private email.
+商用プラグインとテーマについてのレビューに関しては、そのレビューが対象製品の機能 (SaaS ソリューションを含む) やユーザーが目にする特徴について述べるものであれば問題ありません。一方でレビューが本質的に支払い絡みの紛争に関係したものであったり、サポートを得るために書かれたものであるような場合、そのようなレビューは受け入れられず、アーカイブ化して処理されることになります。紛争があるならレビューではなく直接メールでやりとりしてください。
 
 
 ### 複数アカウント保持の禁止
