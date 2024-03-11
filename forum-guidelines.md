@@ -29,9 +29,10 @@ WordPress.org でホストされているテーマやプラグインの開発者
 
 フォーラムは、あなた自身 (または他人) のプラグイン、テーマ、サイト、サービスを宣伝する場ではありません。また、誰かのサイトを修正するために支払いを要求することもできません。これには jobs.wordpress.net を使用してください。
 
-### Do not offer to pay for help
 
-Do not offer to pay for services or help on the forums, please use jobs.wordpress.net for this.
+### 支援を得るためにお金を払うと申し出ないでください
+
+フォーラムでのサービスや支援の見返りに支払いを申し出ないでください。これには jobs.wordpress.net を使用してください。
 
 
 ### Do not post about commercial products
